@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning front end and backend 
 - 💞️ I’m looking to collaborate on web developer
-- 📫 How to reach me this field
+- 📫 How to reach me github
 
 <!---
 mdshahidnat/mdshahidnat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
